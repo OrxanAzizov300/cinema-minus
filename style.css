@@ -1,0 +1,34 @@
+body{
+    
+}
+header{
+    font-family: "Roboto Condensed", sans-serif;
+    
+}
+header ul{
+    list-style: none;
+    gap: 30px;
+    font-size: 15px;
+    color: white;
+}
+.header-login{
+    gap: 15px;
+    p{
+        color: white;
+    }
+    margin-left: 30px;
+}
+.fa-solid{
+    cursor: pointer;
+    font-size: 20px;
+}
+.fa-regular{
+    cursor: pointer;
+    font-size: 20px;
+}
+header{
+    padding-top: 30px;
+}
+.header-login p:hover{
+    
+}
